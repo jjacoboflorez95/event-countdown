@@ -97,6 +97,12 @@ if (daysToDate == 0) {
 - **Notification Feature**: Add reminders for upcoming events.
 - **Theme Customization**: Allow users to choose different themes for the application.
 
+## 🎭 Screenshots  
+
+| Event Countdown |  
+|--------------|  
+| ![Event Countdown](imgs/github/event-countdown.png) |  
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **college assignment**.
