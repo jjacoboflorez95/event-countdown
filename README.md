@@ -8,6 +8,8 @@ The **Event Countdown Application** allows users to input a future or past event
 - If it is today.
 - How many days ago the event occurred.
 
+---
+
 ## 🚀 Features
 
 - **User Input for Events**:
@@ -25,22 +27,41 @@ The **Event Countdown Application** allows users to input a future or past event
   - Ensures the event name is provided.
   - Checks that the date is valid and in the correct `MM/DD/YYYY` format.
 
+---
+
+## 📌 Project Purpose
+
+This project demonstrates:
+
+- **JavaScript Date Manipulation**: Calculating time differences between events and the current date.
+- **User Input Handling & Validation**: Ensuring accurate user input for reliable countdown calculations.
+- **Dynamic UI Updates**: Providing real-time feedback through dynamic messages.
+- **DOM Manipulation**: Using JavaScript and jQuery to interact with user input and display countdown results.
+- **Error Handling**: Validating date formats and managing incorrect input gracefully.
+- **Scalability & Future Enhancements**: Establishing a flexible structure for additional features like notifications and theme customization.
+
+---
+
 ## 📂 Project Structure
 
 ```
-📁 count_down
- ├── 📁 imgs/               # Image assets (icons, backgrounds, etc.)
+📚 count_down
+ ├── 📚 imgs/               # Image assets (icons, backgrounds, etc.)
  ├── 📄 index.html          # Main HTML file for the application
  ├── 📄 count_down.css      # Stylesheet for layout and design
  ├── 📄 count_down.js       # JavaScript for countdown logic and validation
 ```
 
+---
+
 ## 🛠 Technologies Used
 
-- **HTML5**: Structures the user interface.
-- **CSS3**: Provides responsive and visually appealing styles.
-- **JavaScript (ES6)**: Handles countdown calculations, validation, and dynamic messages.
-- **jQuery**: Simplifies DOM manipulation and event handling.
+- **🌐 HTML5**: Structures the user interface.
+- **🎨 CSS3**: Provides responsive and visually appealing styles.
+- **📚 JavaScript (ES6)**: Handles countdown calculations, validation, and dynamic messages.
+- **🔄 jQuery**: Simplifies DOM manipulation and event handling.
+
+---
 
 ## 🏃‍♂️ How to Use the Application
 
@@ -63,6 +84,8 @@ The **Event Countdown Application** allows users to input a future or past event
 4. **Correct Errors**:
 
    - If an input error occurs (e.g., invalid date format), the application will provide a relevant error message.
+
+---
 
 ## 📝 Code Highlights
 
@@ -91,11 +114,15 @@ if (daysToDate == 0) {
 }
 ```
 
+---
+
 ## 🌟 Future Improvements
 
 - **Graphical Date Picker**: Simplify date input with a calendar widget.
 - **Notification Feature**: Add reminders for upcoming events.
 - **Theme Customization**: Allow users to choose different themes for the application.
+
+---
 
 ## 🎭 Screenshots  
 
@@ -103,10 +130,16 @@ if (daysToDate == 0) {
 |--------------|  
 | ![Event Countdown](imgs/github/event-countdown.png) |  
 
-## 📜 License
+---
+
+## 📝 License
 
 This project was developed for educational purposes as part of a **college assignment**.
 
 ---
 
-💼 **Author:** Juan Jacobo Florez Monroy | 🚀 Portfolio: [Portfolio Website or GitHub]
+## 💼 Author
+
+👤 **Juan Jacobo Florez Monroy**  
+🚀 **Portfolio**: [Portfolio Website or GitHub]  
+
